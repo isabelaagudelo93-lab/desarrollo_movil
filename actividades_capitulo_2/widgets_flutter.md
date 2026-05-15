@@ -494,4 +494,3 @@ Este ejemplo carga una imagen desde internet con ancho completo y altura fija de
 ### Conclusión
 
 `Image` es indispensable en cualquier aplicación moderna que trabaje con contenido visual. Su capacidad para cargar imágenes desde múltiples fuentes, combinada con opciones de ajuste, recorte y manejo de errores, lo convierten en uno de los widgets más completos y necesarios del ecosistema Flutter.
-**
