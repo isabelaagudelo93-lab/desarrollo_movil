@@ -1,7 +1,8 @@
 # Investigación de widgets fundamentales en Flutter
-**Nombre del estudiante:** Isabela Agudelo Rodríguez <br>
-**Curso:** Desarrollo de Aplicaciones Móviles <br>
-**Fecha:** 14 de mayo de 2026 <br>
+**Nombre del estudiante:** Isabela Agudelo Rodríguez 
+**Curso:** Desarrollo de Aplicaciones Móviles 
+**Docente:** Oscar Leonel Sanchez Conde 
+**Fecha:** 14 de mayo de 2026 
 
 ## 1. `AppBar`
 
