@@ -441,11 +441,11 @@ Image.network(
 )
 ```
 
-### Explicación del ejemplo
+### Explicación del código
 
 Este ejemplo carga y muestra una imagen desde una URL utilizando el constructor `Image.network`. Flutter descarga la imagen automáticamente y la muestra en pantalla. Si la URL no está disponible, se puede manejar el error con la propiedad `errorBuilder`.
 
-### Personalización
+### Personalización de Image
 
 | Propiedad | Descripción | Ejemplo |
 |-----------|-------------|---------|
