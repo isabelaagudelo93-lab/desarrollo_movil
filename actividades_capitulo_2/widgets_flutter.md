@@ -170,7 +170,7 @@ En este ejemplo, se crea una aplicación básica de Flutter utilizando el widget
 | `appBar` | Widget que se muestra en la parte superior de la pantalla. | `appBar: AppBar(...)` |
 | `body` | Widget que se muestra en el cuerpo principal de la pantalla. | `body: Center(child: Text('Contenido'))` |
 | `drawer` | Widget que se muestra al deslizar desde el lado izquierdo. | `drawer: Drawer(...)` |
-| `bottomNavigationBar` | Widget que se muestra en la parte inferior de la pantalla.
+| `bottomNavigationBar` | Widget que se muestra en la parte inferior de la pantalla. | `bottomNavigationBar: BottomNavigationBar(...)` |
 | `floatingActionButton` | Botón de acción flotante. | `floatingActionButton: FloatingActionButton(...)` |
 | `backgroundColor` | Color de fondo del Scaffold. | `backgroundColor: Colors.grey[200]` |
 
