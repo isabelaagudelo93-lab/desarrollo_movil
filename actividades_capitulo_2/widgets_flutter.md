@@ -1,4 +1,4 @@
-**# Investigación de widgets fundamentales en Flutter
+# Investigación de widgets fundamentales en Flutter
 **Nombre del estudiante:** Isabela Agudelo Rodríguez <br>
 **Curso:** Desarrollo de Aplicaciones Móviles <br>
 **Fecha:** 14 de mayo de 2026 <br>
