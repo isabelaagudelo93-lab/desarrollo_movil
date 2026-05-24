@@ -9,8 +9,6 @@ La aplicación incluye:
 - Pantalla de Registro
 - Pantalla Home
 - Validación de credenciales
-- Inicio de sesión exitoso
-- Manejo de contraseña débil y fuerte
 
 ---
 
@@ -18,6 +16,7 @@ La aplicación incluye:
 
 ### Login
 Permite al usuario iniciar sesión con correo y contraseña.
+
 
 ### Registro
 Permite crear un usuario nuevo solicitando:
