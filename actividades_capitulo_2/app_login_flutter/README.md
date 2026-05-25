@@ -66,8 +66,3 @@ Al ingresar nuevamente las credenciales registradas, el inicio de sesión se rea
 
 ---
 
-# Ejecución del Proyecto
-
-```bash
-flutter pub get
-flutter run
