@@ -16,7 +16,7 @@ En esta pantalla el usuario puede ingresar su correo y contraseña para iniciar 
 Si el usuario aún no tiene una cuenta registrada, podrá seleccionar la opción:
 "¿Aún no tengo cuenta?"
 
-![Login](capturasa/login.jpeg)
+![Login](capturas/login.jpeg)
 
 ---
 
